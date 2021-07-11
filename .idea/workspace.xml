@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2f5d983-b955-454b-a35b-f5abad271bc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/clean-architecture-solid-node.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/decorators/log.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/decorators/log.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/decorators/log.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/decorators/log.ts" afterDir="false" />
+    <list default="true" id="f2f5d983-b955-454b-a35b-f5abad271bc5" name="Default Changelist" comment="chore:  adiciona arquivos do webstorm">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presentation/controllers/signup/signup.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation/controllers/signup/signup.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presentation/errors/server-error.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation/errors/server-error.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presentation/helper/http-helper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation/helper/http-helper.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,12 +65,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626001882306</updated>
-      <workItem from="1626001885332" duration="204000" />
+      <workItem from="1626001885332" duration="681000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore:  adiciona arquivos do webstorm" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore:  adiciona arquivos do webstorm" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
