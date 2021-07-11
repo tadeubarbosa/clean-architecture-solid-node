@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f5d983-b955-454b-a35b-f5abad271bc5" name="Default Changelist" comment="chore:  adiciona arquivos do webstorm">
+      <change afterPath="$PROJECT_DIR$/src/data/protocols/log-error-repository.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation/controllers/signup/signup.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation/controllers/signup/signup.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation/errors/server-error.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation/errors/server-error.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation/helper/http-helper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation/helper/http-helper.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/decorators/log.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/decorators/log.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/decorators/log.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/decorators/log.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,9 @@
     <setting file="file://$PROJECT_DIR$/src/main/decorators/log.ts" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1vAPNkpeICilFk6vcfA9OmixNT4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,14 +30,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/data/protocols" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v12.16.1/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/data/protocols" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="LogController Decorator.should return the same result of controller" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
@@ -65,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626001882306</updated>
-      <workItem from="1626001885332" duration="681000" />
+      <workItem from="1626001885332" duration="1859000" />
     </task>
     <servers />
   </component>
